@@ -6,6 +6,6 @@ scanf("%d",&x);
 printf("Enter the second number\n");
 scanf("%d",&y);
 z=x+y;
-printf("The addition of %d + %d is = %f\n",x,y,z);
+printf("The addition of %d + %d is = %d\n",x,y,z);
 return 0;
 }
